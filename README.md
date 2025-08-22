@@ -1,7 +1,7 @@
 # 🌿 Climate Soldiers
 ## Final Project – CMPINF 0010: Big Ideas in Computing
 
-- **Authors:** Cassandra Gray and Saajan Gandhi  
+- **Authors:** Cassandra Gray (cmg180@pitt.edu) and Saajan Gandhi (sag205@pitt.edu)
 - **Course:** CMPINF 0010 – Big Ideas in Computing  
 - **Tools Used:** Python, Jupyter Notebook, Pandas, Matplotlib
 ---
